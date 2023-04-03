@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todo_machine/static/css/main.e1a463d1.css",
+    "main.js": "/todo_machine/static/js/main.58971abe.js",
+    "index.html": "/todo_machine/index.html",
+    "main.e1a463d1.css.map": "/todo_machine/static/css/main.e1a463d1.css.map",
+    "main.58971abe.js.map": "/todo_machine/static/js/main.58971abe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1a463d1.css",
+    "static/js/main.58971abe.js"
+  ]
+}
